@@ -1,2 +1,2 @@
-# artem-genesius
+# Artem Genesius
 Online archive.
