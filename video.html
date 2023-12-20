@@ -1,30 +1,30 @@
 <html>
 <head>
-    <title>Assignment #1(Q2L1) - HTML Tables</title>
+    <title>Artem Genesius</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body style="background-color:#191919;font-family:'Segoe UI'">
-    <table border=1 style="width:100%;height:100%;background-color:#191919">
-        <tr style="height:100px">
-            <td colspan="2" align="center" style="color:#DFAB01;font-size:50px;font-weight:700">Ian's Portfolio</td>
+<body>
+    <table border=1>
+        <tr id="header">
+            <td id="headerData" colspan="2" align="center">Artem Genesius</td>
         </tr>
         <tr>
-            <td valign="center" align="center" style="color:#FFFFFF;width:250px">
-                <a href="home.html" style="color:#FFFFFF;text-decoration:none;font-size:25px;font-weight:100">Home</a><br>
-                <a href="gallery.html" style="color:#FFFFFF;text-decoration:none;font-size:25px;font-weight:100">Gallery</a><br>
-                <a href="video.html" style="color:#FFFFFF;text-decoration:none;font-size:25px;font-weight:100">Video</a><br>
-                <a href="audio.html" style="color:#FFFFFF;text-decoration:none;font-size:25px;font-weight:100">Audio</a><br>
+            <td id="navigation" valign="center" align="center">
+                <a id="navigationData" href="home.html">Home</a><br>
+                <a id="navigationData" href="gallery.html">Gallery</a><br>
+                <a id="navigationData" href="video.html">Video</a><br>
+                <a id="navigationData" href="audio.html">Audio</a><br>
             </td>
-            <td style="color:#FFFFFF">
-                <div style="display:flex;justify-content:center;align-items:center;height:100%">
-                <video width="800" height ="450" controls>
-                    <source src="video/video.mp4" type="video/mp4"
-                </video>
+            <td id="video">
+                <div id="videoData">
+                    <video width="800" height ="450" controls>
+                        <source src="video/video.mp4" type="video/mp4"
+                    </video>
                 </div>
             </td>
         </tr>
-        <tr style="height:50px">
-            <td colspan=2 align="center" style="color:#FFFFFF">
-                <p style="color:#DFAB01;font-size:10px;font-weight:600">&copy; Sining Productions</p>
+        <tr id="footer" style="height:50px">
+            <td id="footerData" colspan=2 align="center">&copy; Sining Productions
             </td>
         </tr>
     </table>
