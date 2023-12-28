@@ -1,4 +1,4 @@
-Grouped contactData and socialMediaData to socialMediaandContactData; converted contactLocationData to a hyperlink to a Google Map of Manila, Philippines; fixed centering and margins; converted all hyperlinks except the navigation ones to open in a new tab.
+
 
 TODO
 - Add a bar showing each letter individally
