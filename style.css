@@ -73,8 +73,42 @@ table {
     height: 100%;
 }
 
-#socialMedia {
-    margin-bottom: -197px;
+#socialMediaAndContactData {
+    margin-left: 102.5px;
+    margin-right: 102.5px;
+}
+
+#contactData {
+    margin-bottom: -180px;
+}
+
+#contactEmail {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#contactEmailData {
+    color: #DFAB01;
+    font-size: 19px;
+    font-weight: 100;
+    line-height: 5px;
+}
+
+#contactLocation {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#contactLocationData {
+    color: #DFAB01;
+    font-size: 19px;
+    font-weight: 100;
+    line-height: 5px;
+}
+
+#socialMediaData {
     margin-left: 300px;
 }
 
@@ -84,44 +118,6 @@ table {
 
 #socialMediaInstagramIcon {
     padding-right: 50px;
-}
-
-#contactData {
-    color: #DFAB01;
-    margin-bottom: -50px;
-    margin-right: 72.2%;
-    margin-left: 15px;
-}
-
-
-#contactEmail {
-    color: #FFFFFF;
-    text-align: left;
-    font-size: 30px;
-    font-weight: 500;
-}
-
-#contactEmailData {
-    color: #DFAB01;
-    text-align: left;
-    font-size: 19px;
-    font-weight: 100;
-    line-height: 5px;
-}
-
-#contactLocation {
-    color: #FFFFFF;
-    text-align: left;
-    font-size: 30px;
-    font-weight: 500;
-}
-
-#contactLocationData {
-    color: #DFAB01;
-    text-align: left;
-    font-size: 19px;
-    font-weight: 100;
-    line-height: 5px;
 }
 
 ::-webkit-scrollbar {

@@ -1,4 +1,4 @@
-Added intro with brand name and animation above home.html(no logo); Modified scrollbar; Added contact page; Changed brand name
+Grouped contactData and socialMediaData to socialMediaandContactData; converted contactLocationData to a hyperlink to a Google Map of Manila, Philippines; fixed centering and margins; converted all hyperlinks except the navigation ones to open in a new tab.
 
 TODO
 - Add a bar showing each letter individally
@@ -14,3 +14,5 @@ TODO
 - Add more media in Media page
 - Modify audio and video handlers
 - Remove Artem from brand name
+- Specify "data" tags from IDs
+- Make everything responsive.
