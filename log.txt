@@ -1,0 +1,16 @@
+Added intro with brand name and animation above home.html(no logo); Modified scrollbar; Added contact page; Changed brand name
+
+TODO
+- Add a bar showing each letter individally
+- Remove the table
+- Add a hamburger menu on the top right replacing the navigation section
+- Find a standardized CSS property to modify the scrollbar
+- Add identification without comprimising personal info
+- Add transition to scrollbar
+- Add Google fonts and icons
+= Finalize logo
+- Add Contact page
+- Merge the Gallery and Video page and rename to Media
+- Add more media in Media page
+- Modify audio and video handlers
+- Remove Artem from brand name
